@@ -1,0 +1,17 @@
+1. What is == and ===.
+2. What is difference between let ,const and var.
+3. What is hoisting 
+4. What is closure.
+5. What is difference between function statement and function expression.
+6. What are the advantages of arrow function.
+7. what is map.
+8. what is filter.
+9. What is null and undefined in javascript.
+10. What is the purpose of setTimeout function.
+11. What are higher order function.
+12. What is the significance of this keyword.
+13. What are callbacks.
+14. What are promises.
+15. What is event bubbling.
+16. What is event capturing.
+17. What is temporal dead zone.
